@@ -9,7 +9,7 @@ The command line interface for UnoCSS: `@unocss/cli`.
 
 - 🍱 Suited for traditional backends like Laravel or Kirby
 - 👀 [Watch mode](#development) included
-- 🔌 Supports custom configurations via [`uno.config.js`](#unocssconfigjs-support)
+- 🔌 Supports custom configurations via [`unocss.config.js`](#configurations) or [`unocss.config.ts`](#configurations)
 
 ## Requirements
 
